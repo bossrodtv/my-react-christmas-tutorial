@@ -1,5 +1,5 @@
-import { OptimizedMovieApp } from "./components/movie-optimized";
+import { UncontrolledForm } from "./components/uncontrolled-form";
 
 export default function App() {
-  return <OptimizedMovieApp />;
+  return <UncontrolledForm />;
 }
